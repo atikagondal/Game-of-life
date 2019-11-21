@@ -1,0 +1,11 @@
+public class Listener{
+
+public void startstopbuttonclick;
+public void nextbuttonclick;
+public void speedchange;
+public void zoomchange;
+
+
+
+
+}

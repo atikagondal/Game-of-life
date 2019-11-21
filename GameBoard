@@ -1,0 +1,13 @@
+package sample;
+
+/**
+ * Created by Atika on 22.02.2017.
+ */
+public class Gameboard{
+
+private byte board;
+private int columnsize;
+private int rowsize;
+
+public Gameboard(columnsize:int, rowsize:int);
+}
