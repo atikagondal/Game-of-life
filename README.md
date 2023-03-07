@@ -1,2 +1,2 @@
 # Game-of-life
-Lagde et spill i emnet Programutvikling
+Lagde et spill som et hobby project i Java
